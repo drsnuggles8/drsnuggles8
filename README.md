@@ -5,7 +5,6 @@
 - 👷 I'm currently employed at Deloitte Audit Analytics GmbH, where I work as a financial engineer / quantitative developer. My work github account is: https://github.com/OleBueker
 - 🌱 I’m currently learning C++20 and Game Engine Programming
 - 🥅 2022 Goals: Contribute more to Open Source projects, especially QuantLib and C++ Math and Concurrency libraries
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
